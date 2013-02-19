@@ -1,0 +1,15 @@
+Manasvi mrna data danalysis
+===========================
+This folder contains output and R code for Manasvi mRNA data analysis. 
+
+Ouptnew folder contains
+=================
+
+1- Output for comparison between spatial ( high - low - negtive) for each animal with and withour outlier removed
+
+2- Comparison between treatment groups across animals
+   where observatins from the same animal are averaged
+
+3- Comparison between the groups who received the AOM and the groups that did not
+
+
