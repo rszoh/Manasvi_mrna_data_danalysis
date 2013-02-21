@@ -7,9 +7,22 @@ Ouptnew folder contains
 
 1- Output for comparison between spatial ( high - low - negtive) for each animal with and withour outlier removed
 
+- For each comparison, I provide the total number of observations (without missing observations) and then the total number of observations actually used in the test, after removing outliers (dif_X_Y)
+
+- The remaining on the columns in each output data file are self explanatory
+
+- Output file ending in -no-outl are files for which we removed outliers
+
+- For the treatment group comparaisons, I did not perform the comparaison without outliers --  
+
+
 2- Comparison between treatment groups across animals
    where observatins from the same animal are averaged
 
-3- Comparison between the groups who received the AOM and the groups that did not
+3- Comparison between the groups who received the AOM and the groups that did not. I did not consider the case with outlier removal
+
+4- In the output with outlier removal, there two columns of that counts the number of X and Y observations. The columns with low counts represents the number of observations left after we remove outliers
+
+
 
 
